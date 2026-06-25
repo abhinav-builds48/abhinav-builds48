@@ -7,15 +7,21 @@ Aspiring Software Engineer skilled in Java, Python, and Web Technologies, with a
 
 ###
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinav-builds48
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=abhinav-builds48
 &hide=stars,issues&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav-builds48
-&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=abhinav-builds48&hide=stars,issues&show_icons=true&theme=dracula&hide_border=false&v=1" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav-builds48&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=abhinav-builds48&hide=stars,issues&show_icons=true&theme=dracula&hide_border=false&v=1" height="150" alt="stats graph" /> -->
 
 ###
 
@@ -52,5 +58,8 @@ Aspiring Software Engineer skilled in Java, Python, and Web Technologies, with a
 </div>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=abhinav61277&label=Profile%20views&color=red&style=flat" alt="profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=abhinav-build48 &label=Profile%20views&color=red&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abhinav-builds48&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abhinav-builds48&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" /> -->
+  <img src="https://komarev.com/ghpvc/?username=abhinav-builds48&label=Profile%20Views&color=red&style=flat" alt="profile views" />
 </p>
